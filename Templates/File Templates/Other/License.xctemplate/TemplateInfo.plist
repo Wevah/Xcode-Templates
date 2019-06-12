@@ -7,13 +7,13 @@
 	<key>DefaultCompletionName</key>
 	<string>LICENSE</string>
 	<key>Description</key>
-	<string>A plain text file containing the MIT license</string>
+	<string>A plain text file containing a software license.</string>
 	<key>Kind</key>
 	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
 	<key>MainTemplateFile</key>
 	<string>___FILEBASENAME___</string>
 	<key>Summary</key>
-	<string>A plain text file containing the MIT license</string>
+	<string>A plain text file containing a software license</string>
 	<key>Options</key>
 	<array>
 		<dict>
