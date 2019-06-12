@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildableType</key>
+	<string>None</string>
+	<key>DefaultCompletionName</key>
+	<string>LICENSE</string>
+	<key>Description</key>
+	<string>A plain text file containing the MIT license</string>
+	<key>Kind</key>
+	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
+	<key>MainTemplateFile</key>
+	<string>__FILEBASENAME__</string>
+	<key>Summary</key>
+	<string>A plain text file containing the MIT license</string>
+
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Identifier</key>
+			<string>licenseType</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>License:</string>
+			<key>Description</key>
+			<string>What type of license to create</string>
+			<key>Type</key>
+			<string>popup</string>
+			<key>Default</key>
+			<string>MIT</string>
+			<key>Values</key>
+			<array>
+				<string>MIT</string>
+				<string>BSD 3-Clause</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
