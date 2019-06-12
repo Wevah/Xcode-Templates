@@ -11,10 +11,9 @@
 	<key>Kind</key>
 	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
 	<key>MainTemplateFile</key>
-	<string>__FILEBASENAME__</string>
+	<string>___FILEBASENAME___</string>
 	<key>Summary</key>
 	<string>A plain text file containing the MIT license</string>
-
 	<key>Options</key>
 	<array>
 		<dict>
